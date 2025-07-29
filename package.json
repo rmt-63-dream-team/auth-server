@@ -1,0 +1,27 @@
+{
+  "name": "angga",
+  "version": "1.0.0",
+  "description": "## Development Branch - Init project     - Software Design         - ERD         - api docs         - UIUX -> Design     - Project Plan -> SDLC         - Timeline -> berapa lama         - Deadline mingguan     - Init model, helpers         - Bisa di development         - Harus bikin branch lagi -> Init project             - Hello world express             - Init model             - Helpers             - Pattern dsb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmt-63-dream-team/auth-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmt-63-dream-team/auth-server/issues"
+  },
+  "homepage": "https://github.com/rmt-63-dream-team/auth-server#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.16.3",
+    "sequelize": "^6.37.7"
+  }
+}
